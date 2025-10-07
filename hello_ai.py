@@ -1,0 +1,1 @@
+print("Đã mở được file Python trên 1MB (ví dụ)")
