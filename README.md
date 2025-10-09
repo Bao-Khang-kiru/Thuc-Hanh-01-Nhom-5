@@ -60,3 +60,16 @@ ThucHanh01_Nhom 05
 
 ### ✅ Giấy phép
 Toàn bộ sản phẩm được chia sẻ theo giấy phép  Creative Commons CC BY 4.0 .  
+## 📜 Giấy phép
+
+Tác phẩm này được cấp phép theo **[Giấy phép Creative Commons Ghi công 4.0 Quốc tế (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)**.
+
+Bạn được phép:
+- Sao chép, phân phối lại tác phẩm dưới mọi hình thức và phương tiện.
+- Sửa đổi, biến tấu, và sử dụng tác phẩm cho mọi mục đích, kể cả thương mại.
+
+**Yêu cầu duy nhất:** Phải ghi công tác giả gốc một cách phù hợp, cung cấp đường dẫn đến giấy phép, và cho biết nếu có thay đổi.
+  
+© 2025 [Tên của bạn hoặc Nhóm 05]
+![CC BY](https://licensebuttons.net/l/by/4.0/88x31.png)
+
